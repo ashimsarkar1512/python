@@ -15,3 +15,20 @@ if(head==" have to full barin "):
       print("i am studing")
 else:
       print("i am not studing")   
+
+
+age=20
+name="ashim"
+district="sirajgonj"     
+
+if age==22 and name=="ashim" and district=="sirajgonj":
+    print("he is verified")
+
+elif(age==22 and name=="ashim" and district=="tarashi"):
+   print("he is tarashi")
+
+elif(age==21 and name=="ashim" and district=="sirajgonj"):
+    print("he is not verified")
+
+else:
+    print("he is not a sirajganjian")
