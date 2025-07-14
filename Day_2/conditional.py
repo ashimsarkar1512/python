@@ -45,3 +45,14 @@ elif(marks>=70):
       print("your grade is C")    
 
 print("you are fail")   
+
+
+
+number=70
+
+if(number>=50):
+    if(number>=60):
+        if(number>=70):
+            print("tumi boro")
+        elif(number>=66):
+            print("tahole ami boro")   
