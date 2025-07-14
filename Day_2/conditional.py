@@ -32,3 +32,16 @@ elif(age==21 and name=="ashim" and district=="sirajgonj"):
 
 else:
     print("he is not a sirajganjian")
+
+
+
+marks=int(input("Enter your marks : "))
+
+if(marks>=90):
+      print("Your grade is A")
+elif(marks>=80):
+      print("your grade is B")    
+elif(marks>=70):
+      print("your grade is C")    
+
+print("you are fail")   
