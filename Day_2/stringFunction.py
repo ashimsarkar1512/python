@@ -8,3 +8,8 @@ name=name.capitalize()
 
 
 print(name)
+
+
+desh="amar desher name bangladesh"
+
+print(desh.replace("e","a"))
