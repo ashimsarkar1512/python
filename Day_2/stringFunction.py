@@ -10,6 +10,12 @@ name=name.capitalize()
 print(name)
 
 
-desh="amar desher name bangladesh"
+desh="amar desher name  bangladesh"
 
-print(desh.replace("e","a"))
+print(desh.replace("amar desher name","my country name is"))
+
+print(desh.find("deshe"))
+
+division="my division my name is rajshahi "
+
+print(division.count("i"))
