@@ -1,7 +1,7 @@
-# name=input("enter your name:")
+name=input("enter your name:")
 
 
-# print("name lenth:",len(name))
+print("name lenth:",len(name))
 
 
 dollarCount="$i am a $ student in $ northern university"
