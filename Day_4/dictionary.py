@@ -34,3 +34,26 @@ studentName={
 }
 
 print(studentName)
+
+
+print(studentName["marks"]["phy"])
+
+print(len(list(studentName.values())))
+
+print(studentName.items())
+
+pairs=list(studentName.items())
+
+print(pairs[1])
+
+getdata=studentName.get("name")
+print(getdata)
+
+new_data={"name":"prity","age":23}
+
+
+studentName.update(new_data)
+
+print(studentName)
+
+
