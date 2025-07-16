@@ -1,0 +1,9 @@
+info={
+    "name":"Ashim",
+    "subject":["python","C","javascript"],
+    "Touple":("anik","ayon"),
+    "marks":98.7,
+    "age":23,
+    "is_adult":True
+}
+print(info)
