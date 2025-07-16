@@ -24,6 +24,7 @@ print(number)
 
 stringList=["ashim","sagor","mohadev","laboni","juthi"]
 
+
 stringList.sort()
 print(stringList)
 
@@ -45,3 +46,11 @@ print(letter)
 
 letter.append("As")
 print(letter)
+
+
+stringList.remove("ashim")
+print(stringList)
+
+number.pop(4)
+print(number)
+
