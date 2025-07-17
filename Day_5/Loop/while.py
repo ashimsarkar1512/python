@@ -38,3 +38,17 @@ i=1
 while i <=10:
     print(n*i)
     i +=1
+
+
+nums=[1,4,9,16,25,36,49,64,100]    
+idx=0
+while idx<(len(nums)):
+   print(nums[idx])
+   idx +=1
+
+
+gfName=["mritra","mukti","dighi","prity"]
+i=0
+while i<len(gfName):
+   print(gfName [i])
+   i +=1
