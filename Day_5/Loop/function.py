@@ -19,3 +19,18 @@ def ageEquation(a,b,c):
 result=ageEquation(7,9,8)
 
 print(result)
+
+
+
+def names(ashim,anik,ayon):
+    if(ashim>anik and ashim>ayon):
+        return("ashim is brother ")
+    elif(anik>ashim and anik>ayon):
+        return("anik is big brother ")
+    else:
+        ("ayon is big brother")
+
+
+ages=names(23,18,8)
+
+print(ages)
