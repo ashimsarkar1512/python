@@ -29,4 +29,14 @@ def cal_fac(n):
     for i in range(1,1+n):
         fact *=i
         print(fact)
-cal_fac(6)        
+cal_fac(6)    
+
+
+
+
+def converter(usd):
+    taka=usd*122
+    return(usd, "USD = " ,taka)
+
+usd_val=converter(1)
+print(usd_val)
