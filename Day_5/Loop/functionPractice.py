@@ -40,3 +40,16 @@ def converter(usd):
 
 usd_val=converter(1)
 print(usd_val)
+
+
+def numbers(num):
+    odd=num%2
+
+    if(odd!=0):
+        return("this is odd number")
+    else:
+        return("this is even number")
+    
+
+remainder=numbers(5)    
+print(remainder)
