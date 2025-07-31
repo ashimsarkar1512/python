@@ -1,4 +1,4 @@
 Hi everyone
 we are learning file I\o
-using java
-i like programing like java
+using python
+i like programing like python
