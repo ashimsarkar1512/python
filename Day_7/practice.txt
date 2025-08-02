@@ -1,4 +1,0 @@
-Hi everyone
-we are learning file I\o
-using python
-i like programing like python
