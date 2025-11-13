@@ -56,3 +56,18 @@ if(number>=50):
             print("tumi boro")
         elif(number>=66):
             print("tahole ami boro")   
+
+
+
+
+
+
+
+
+
+name="ashim"
+
+if (name=="ashim"):
+   print("he is boy")
+
+
