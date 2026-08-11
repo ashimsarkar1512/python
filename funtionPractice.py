@@ -1,3 +1,4 @@
+import utils.session
 def check_for_word():
     word="learning"
 
